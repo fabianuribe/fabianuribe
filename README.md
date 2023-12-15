@@ -1,4 +1,14 @@
-### Hi there 👋
+👋 I'm a Full-Stack Software Engineer and Cofounder of [Plaula](https://plaula.com), a workspace for teachers. Previously, I was a Principal Software Engineer [@yahoo](https://github.com/yahoo).
+
+Sometimes I write, here are the last _3_ things I published:
+
+- [Are we there yet?](https://fabianuribe.com/are-we-there-yet)
+- [Delete, delete, delete](https://fabianuribe.com/delete-delete-delete)
+- [Great Pull Requests](https://fabianuribe.com/great-pull-requests)
+
+
+— Fabián
+
 
 <!--
 **fabianuribe/fabianuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
